@@ -1,0 +1,24 @@
+{
+  "name": "Morpion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simplon-Rodez/Morpion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Simplon-Rodez/Morpion/issues"
+  },
+  "homepage": "https://github.com/Simplon-Rodez/Morpion#readme",
+  "description": ""
+}
