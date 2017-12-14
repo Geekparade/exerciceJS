@@ -1,0 +1,13 @@
+.input--task {
+    border: none;
+    border-bottom: rgb(0, 153, 255) 1px solid;
+    width: 100%;
+}
+
+.todo a{
+    color: green;
+}
+
+.done a{
+    color: red;
+}
